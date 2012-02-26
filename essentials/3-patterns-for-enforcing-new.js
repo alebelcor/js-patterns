@@ -77,4 +77,4 @@ var first = new Waffle(),
 console.log(first.tastes); // 'yummy'
 console.log(second.tastes); // 'yummy'
 console.log(first.wantAnother); // true
-console.log(second.wantAnother); // true 
+console.log(second.wantAnother); // true

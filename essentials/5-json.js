@@ -4,9 +4,8 @@
 
 /* JSON */
 
-/* Example 1 - example of a JSON string, property names need to be wrapped in quotes and you cannot use
-functions */
-or regular expressions literals.
+/* Example 1 - example of a JSON string, property names need to be wrapped in quotes and you
+cannot use functions or regular expressions literals. */
 
 var foo = {
     "name": "value",
@@ -27,8 +26,8 @@ var data = JSON.parse(jstr);
 console.log(data.mykey); // 'my value'
 
 
-/* Example 3 - if the native function is unavailable, use the JSON.org library unless you are already
-working with a JavaScript library that does the job */
+/* Example 3 - if the native function is unavailable, use the JSON.org library unless you are
+already working with a JavaScript library that does the job */
 
 /* Using YUI3 */
 
