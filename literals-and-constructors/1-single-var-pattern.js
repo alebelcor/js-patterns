@@ -2,7 +2,7 @@
  * JavaScript Patterns, by Stoyan Stefanov (O'Reilly). Copyright 2010 Yahoo!, Inc., 9780596806750.
  */
 
-/* Single var Pattern*/
+/* Single var Pattern */
 
 // Example 1 - multiple declarations
 
